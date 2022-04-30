@@ -1,2 +1,4 @@
 # expressAppTest
 express上で色々テストするためのやつ
+一先ずはexpress上で色々試してみるための捨てリポジトリ
+主にSPAのテストをするためのやつです
